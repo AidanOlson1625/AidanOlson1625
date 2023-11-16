@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AidanOlson1625
-- 👀 I’m interested in using regression and methods of interpolation in data analysis. My studies of interest include evolutionary biology, finance, and video games.
-- 🌱 I’m currently learning about methods of numerical analysis and their applications with libraries like pandas.
-- 💞️ I’m looking to collaborate on any sorts of data projects for a young and ambitious Mathematics student!
-- 📫 Reach me via email: aolson1625@gmail.com
+- 👀 I’m interested in using regression and methods of interpolation in data analysis. My studies of interest include evolutionary biology, numerical analysis, and PDE.
+- 🌱 I’m currently studying applied mathematics at Tulane University.
+- 💞️ I’m looking to collaborate on any sorts of data projects for a young and ambitious mathematics student!
+- 📫 Reach me via email: aolson1625@gmail.com and aolson7@tulane.edu
 
 <!---
 AidanOlson1625/AidanOlson1625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
