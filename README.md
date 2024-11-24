@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AidanOlson1625
-- 👀 I’m interested in using regression and methods of interpolation in data analysis. My studies of interest include evolutionary biology, numerical analysis, and PDE.
+- 👀 I’m interested in data science and analytics.
 - 🌱 I’m currently studying applied mathematics at Tulane University.
-- 💞️ I’m looking to collaborate on any sorts of data projects for a young and ambitious mathematics student!
 - 📫 Reach me via email: aolson1625@gmail.com and aolson7@tulane.edu
 
 <!---
