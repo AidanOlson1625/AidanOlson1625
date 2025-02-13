@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AidanOlson1625
-- 👀 I’m interested in data science and analytics.
-- 🌱 I’m currently studying applied mathematics at Tulane University.
-- 📫 Reach me via email: aolson1625@gmail.com and aolson7@tulane.edu
+Hi! My name is Aidan Olson. I’m currently studying applied mathematics at Tulane University with a concentration in linear algebra, statistical modeling, and machine learning. I’m interested in scientific computing, data science, and data analytics. 
 
 <!---
 AidanOlson1625/AidanOlson1625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
